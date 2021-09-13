@@ -1,7 +1,9 @@
+www.youtube.com
 youtube.com
 ytimg.com
 ytimg.l.google.com
 s.ytimg.com
 youtube.l.google.com
+www.googlevideo.com
 googlevideo.com
 i.google.com 
